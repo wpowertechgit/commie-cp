@@ -1,2 +1,6 @@
 /.data/
 /.redis/
+/www/
+*.log
+.env.local
+.env.*.local
